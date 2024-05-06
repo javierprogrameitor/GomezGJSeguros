@@ -1,1 +1,1 @@
-# SegurosEstamos
+# SegurosEstamos es una aplicación realizada con JavaEE 7 Web, en la que usa la libreía jslt en las página jsp y siguiendo el modelo vista controlador. Tiene para los estilos Tailwind con Daysi, anque no son lo mas importante. Se ha desarrollado en dos idiomas, el español y el noruego, basandose en ficheros de propiedades. El servidor es Tomcat9 y la versión del jdk es la 11 con el I.D.E Netbeans en la versión 21.
